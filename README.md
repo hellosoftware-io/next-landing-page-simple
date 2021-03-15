@@ -25,3 +25,7 @@ Simple landing page built with Next.js and Material-UI
 2. Navigate to the project directory in your command line
 3. Run `npm install` to install dependencies
 4. Run `npm run dev` to build and run the site locally
+
+## License
+
+This project is licensed under the terms of the [MIT license](/LICENSE).
